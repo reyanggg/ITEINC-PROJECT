@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	     <title> FILZILLA SHOP </title>
+
+	     <style>
+
+        
+        
+        html {
+            scroll-behavior: smooth;
+        }
+
+         body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #ffe4e1;
+        }
+	    
+	    #header{
+	        background-color: #DEA5A4;
+            color: #000;
+            text-align: center;
+            z-index: 1;
+            position: fixed;
+            height: 90px;
+            width:100% ;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+
+        .title {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 50px;
+        }
+
+
+        .logo {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+	    
+        .logo h1, .logo p{
+            box-sizing: border-box; 
+        }
+
+            box-shadow: 10px 5px 10px darkpink;
+            width: 80px;
+            height: 80px;
+            border:4px;
+            border-radius: 50%;
+        }
+    
+        .picture {
+            display: flex;
+            justify-content: space-around;
+            align-items: left;
+            margin-left: 20px;
+            text-decoration: none;
+    
+        }
+        .portrait {
+            display: flex;
+            justify-content: space-around;
+            align-items: left;
+            margin-left: 20px;
+            text-decoration: none;
+        }
+        .photograph {
+            display: flex;
+            justify-content: space-around;
+            align-items: left;
+            margin-left: 20px;
+            text-decoration: none;
+        }
+
+        .logo2 {
+            display: flex;
+            justify-content: space-around;
+            align-items: left;
+            margin-left: 20px;
+            text-decoration: none;
+        }
+
+        
+        nav a {
+            color: black;
+            text-decoration: none;
+            margin-right: .8rem;
+        }
+
+        nav a:hover {
+            color: white;
+        }
+
+        pre {
+            font-family: Arial;
+            
+        }
+
+		#section {
+            padding: 20px;
+            margin: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #E18E96;
+     	}
+		#footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #DEA5A4;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            height: 25px;
+        }
+
+        #history1 {
+        	margin-bottom: 150px;
+        }
+
+        #image{
+            box-shadow: 10px 5px 10px darkpink;
+            width: 190px;
+            height: 200px;
+            border:4px;
+            border-color:lightpink;
+        }
+
+        #image1{
+            box-shadow: 10px 5px 10px darkpink;
+            width: 200px;
+            height: 200px;
+            border:4px;
+            border-color:lightpink;
+            border-radius: 50%;
+        }
+
+        #image2{
+            box-shadow: 10px 5px 10px darkpink;
+            width: 25px;
+            height: 20px;
+            border:4px;
+            border-color:lightpink;
+        }
+
+        .product-container {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+
+        .product-container1 {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+            
+        }
+
+     </style>
+
+    <header id="header">
+        <div class="logo">
+            <img src="https://i.pinimg.com/564x/c5/63/e3/c563e3c30ee53bc3762da8ddb39ec24b.jpg" alt="Filzilla Logo" style="margin-right: 10px;">
+            <h1> <u> <i> Filzilla </i> </u> </h1>
+         </div>
+      
+        <nav>
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#products">Products</a>
+        <a href="#contact">Contact  </a>
+        <a href="#about">About Us</a>
+        <a href="#history1">The History of Filzilla Shop  </a>
+        </nav>
+    
+    </header>
+
+    <body>
+
+     <section id="home">
+        <br>
+        <br>
+     	<br>
+     	<br>
+     	<br>
+        <center> 
+        <hr>
+        <div class="title"
+        <h2> Home </h2>
+        </div>
+        <hr>
+        <p>Welcome to our company website. We provide high-quality services to meet our customers' needs.</p>
+        <p>Feel free to explore our website and learn more about what we offer.</p>
+        
+
+<pre class="pre">
+     	<br>
+     	<br>
+ Welcome to Filzilla Shop - Where Elegance Meets Comfort
+
+ At Filzilla, we passionately work to empower people to embrace their unique style and confidence through trendy 
+crop tops that offer both comfort and cutting-edge designs. We strongly believe that clothing is more than just 
+looks—it's about enjoying sheer beauty while dressing up.
+
+We have a wide range of crop tops, from casual and easygoing styles to bold statement pieces, carefully selected 
+to suit different tastes and occasions. Each piece is carefully chosen or handmade, guaranteeing luxurious fabrics, 
+flattering shapes, and detailed workmanship. Whether you want a relaxed look for a casual outing 
+or aim to make a bold fashion statement, our collection has the perfect crop top for everyone who loves fashion.
+
+We are dedicated to maintaining the highest standards, prioritizing top-notch quality and unbeatable comfort. 
+Our crop tops are carefully made from the best materials, ensuring they feel luxurious on the skin and maintain 
+their appeal for a long time. We strongly believe that elegance and comfort can go hand in hand, so our products 
+effortlessly combine both aspects.
+
+At Filzilla, we love celebrating uniqueness. Our collection combines the newest high-fashion trends with timeless 
+styles, creating a range that lets you easily show off your own personality. Whether you prefer a relaxed bohemian 
+look, simple and understated styles, bold and edgy fashion, or a mix of everything, our crop tops collection has 
+something for every fashion preference.
+
+We warmly invite you to explore our online store and discover the crop top that suits your unique style. Join our 
+lively community of fashion lovers who value top-notch quality, unbeatable comfort, and the freedom of self-expression. 
+Enjoy a shopping experience that's more than just buying clothes—it's about embracing a confident and elegant lifestyle.
+
+We extend our heartfelt gratitude for choosing Filzilla as your quintessential destination for elegant, comfortable, and versatile crop tops.
+
+Sincerely,
+
+Founder of Filzilla Shop
+</pre>
+<br>
+<br>
+<br>
+<hr>
+<center>
+    <h1> MISSION </h1>
+    <hr>
+    <br>
+    <br>
+<pre> At Filzilla Shop, we envision a world where individuality is celebrated through fashion. We strive to be the foremost destination for crop tops, 
+empowering individuals to express their unique style with confidence and comfort. Our vision is to curate a diverse collection that transcends trends, 
+inspiring self-expression and embracing the beauty of personal style. </pre> 
+<br>
+<br>
+<hr>
+</center>
+<center>
+<h1> VISION </h1>
+<hr>
+<br>
+<br>
+<pre> Our mission at Filzilla Shop is to provide a curated selection of premium crop tops, meticulously designed and crafted to blend elegance with 
+comfort. We are committed to sourcing high-quality materials and staying ahead of fashion trends to offer a range that caters to diverse tastes and occasions. 
+Through personalized service and a commitment to excellence, we aim to foster a community where every individual feels 
+empowered and stylish in their own skin. </pre>
+<br>
+<br>
+<hr>
+
+        </center>
+    </section>
+
+
+    <section id="services">
+     	<br>
+     	<br>
+     	<br>
+     	<br>
+     	<br>
+        <center> 
+        <hr>
+        <div class="title"
+        <h2> Services </h2>
+        </div>
+        <hr>
+        <br>
+         <p>Our services include:</p>
+     	<br>
+     	<br>
+        <p>
+            <p> - Provide personalized styling advice and recommendations for customers based on their preferences and body type.</p>
+            <p> - Provide a subscription service where customers receive curated or new crop tops regularly, catering to their style preferences.</p>
+            <p> - Provide alteration services to adjust the length, fit, or design of crop tops according to customer requests.</p>
+            <p> - Highlight eco-friendly materials or practices in manufacturing and offer recycling or donation programs for old crop tops.</p>
+            <p> - Implement loyalty programs with rewards for frequent shoppers, encouraging repeat business.</p>
+            </p>
+            <br>
+            <br>
+        <p> <i><u><b> We strive to provide comprehensive solutions tailored to our clients' needs.</b></u></i></p>
+        </center>
+    </section>
+<section id="products">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+   <center>
+   <hr>
+   <div class="title"
+   <h2> Products </h2>
+   <hr>
+   </div>
+   </center>
+   <center><h1> <u><i> NEW ARRIVALS </i></u></h1></center>
+   
+   <div class="product-container">
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/7f/34/d5/7f34d517bc25384a03c26fadc1f0649b.jpg" id="image"> 
+       <h1> "Contrast Binding Tie Front Crop Top" </h1> 
+       <h4> 185 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4> 
+       <h4> Colors: White, Brown, Pink, Blue </h4> 
+       <fieldset>
+       <a href="https://forms.gle/UU1qcf2zJzMtLWvJ8"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/73/3c/7b/733c7b58e17d9026972a9dafbaf780dc.jpg" id="image">
+       <h1> "Ruched Bust Tie Front Crop Top" </h1> 
+       <h4> 230 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4> 
+       <h4> Colors: White, Violet, Pink </h4> 
+       <fieldset>
+       <a href="https://forms.gle/pbvkh9gL8TeAoB5U6"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/6a/71/f8/6a71f8132633d083b19771b7383e098c.jpg" id="image"> 
+       <h1> "Solid Button Front Lettuce Trim Crop Top"  </h1>
+       <h4> 250 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4> 
+       <h4> Colors: White, Nude-Brown, Yellow, Red </h4> 
+       <fieldset>
+       <a href="https://forms.gle/S8yfZWPDKcb4ryFy6"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/e4/5d/52/e45d52cea40651161c18a51e4f6a380c.jpg" id="image">
+       <h1>"Ruched Bust Assymetrical Hem Crop Top" </h1> 
+       <h4> 200 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4> 
+       <h4> Colors: Dirty-White, Brown, Gray, Blue </h4> 
+       <fieldset>
+       <a href="https://forms.gle/ayiBmDNd4Trc7rLD8"> BUY </a> 
+       </fieldset> 
+       </center>
+       </div>
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/95/63/3a/95633a620dfc83ce61419b5aeb134008.jpg" id="image">
+       <h1>"Zip Back Hem Cami Denim Crop Top" </h1> 
+       <h4> 280 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4> 
+       <h4> Colors: White, Brown, Pink, Blue </h4>  
+       <fieldset>
+       <a href="https://forms.gle/yfjrubyREMHBjbBk9"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/eb/f2/f6/ebf2f6a7d10c7eb42b3956f2eb7e48bc.jpg" id="image">
+       <h1>"Tie Shoulder Ruched Bustier Bandana Crop Top" </h1> 
+       <h4> 195 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4> 
+       <h4> Colors: White, Brown, Pink, Blue </h4>  
+       <fieldset>
+       <a href="https://forms.gle/m4MTpJarGckrw6Sf6"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/a7/a9/9f/a7a99f323c71031c8c9b91917b427f17.jpg" id="image"> 
+       <h1> "Lace Up Front Tube Crop Top" </h1> 
+       <h4> 150 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+       <h4> Colors: White, Brown, Pink, Blue </h4> 
+       <fieldset>
+       <a href="https://forms.gle/tsAS5qMzVRY8TEZ97"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/e9/87/21/e98721bd2d13587c02aad7df513715f1.jpg" id="image"> 
+       <h1> "Camiseta Tejido de Canale halter Crop Top" </h1> 
+       <h4> 300 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+       <h4> Colors: White, Brown, Pink, Blue </h4> 
+       <fieldset>
+       <a href="https://forms.gle/niBxXvoX13x4xH119"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/f2/a1/b7/f2a1b70f5c88f042c493b73ce8ac7df7.jpg" id="image">
+       <h1> "Solid Criss Cross Halter Crop Top" </h1> 
+       <h4> 170 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+       <h4> Colors: White, Brown, Pink, Blue </h4> 
+       <fieldset>
+       <a href="https://forms.gle/UwZ7vX97zZ1HAMFy8"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+
+       <div class="product">
+       <center>
+       <img src="https://i.pinimg.com/564x/4c/cd/b4/4ccdb4928ade4f1b888628f1e59906df.jpg" id="image"> 
+       <h1> "Assymetrical Neck Ring Detail Crop Top" </h1> 
+       <h4> 245 Pesos</h4>
+       <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+       <h4> Colors: White, Brown, Pink, Blue </h4> 
+       <fieldset>
+       <a href="https://forms.gle/zEpL4jzbKV45Mvif6"> BUY </a> 
+       </fieldset>
+       </center>
+       </div>
+ </div>
+
+       <br>
+       <br>
+           <hr>
+           <center><h1> <u><i> SALES </i></u></h1></center>
+           <hr>
+       
+   <div class="product-container">
+
+       <div class="product">
+           <center>
+           <img src="https://i.pinimg.com/564x/f1/12/58/f11258f1d866de5eebe922c39ad875f0.jpg" id="image"> 
+           <h1> "Solid Button Front Ribber Crop Top" </h1> 
+           <h4> 150 Pesos</h4>
+           <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+           <h4> Colors: White, Brown, Pink, Blue </h4> 
+           <fieldset>
+           <a href="https://forms.gle/j95DWdZoA1zLHjcH9"> BUY </a> 
+           </fieldset>
+           </center>
+           </div>
+
+       <div class="product">
+           <center>
+           <img src="https://i.pinimg.com/564x/09/91/1c/09911cd3c23eac60801819ff7ddfe30b.jpg" id="image"> 
+           <h1> "Fairy Grunge Solid Tie Front Crop Top" </h1> 
+           <h4> 135 Pesos</h4>
+           <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+           <h4> Colors: White, Brown, Pink, Blue </h4> 
+           <fieldset>
+           <a href="https://forms.gle/bjK3Xnw8SKdWtBZ3A"> BUY </a> 
+           </fieldset>
+           </center>
+           </div>
+       
+       <div class="product">
+           <center>
+           <img src="https://i.pinimg.com/564x/05/51/21/0551216ede334a067be0991301aaed19.jpg" id="image"> 
+           <h1> "Embroidery Puff Sleeve Front Knot Crop Top" </h1> 
+           <h4> 120 Pesos</h4>
+           <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+           <h4> Colors: White, Brown, Pink, Blue </h4> 
+           <fieldset>
+           <a href="https://forms.gle/BxBneTvAvjY9B9Jk7"> BUY </a> 
+           </fieldset>
+           </center>
+           </div>
+
+       <div class="product">
+           <center>
+           <img src="https://i.pinimg.com/564x/79/2c/76/792c765acc74e046e6da15320d00d4b2.jpg" id="image"> 
+           <h1> "Colar Contrast Binding Bow Front Crop Top" </h1> 
+           <h4> 120 Pesos</h4>
+           <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+           <h4> Colors: White, Brown, Pink, Blue </h4>
+           <fieldset>
+           <a href="https://forms.gle/6s2tJ8gNT3cXmR9t6"> BUY </a> 
+           </fieldset> 
+           </center>
+           </div>
+
+       <div class="product">
+           <center>
+           <img src="https://i.pinimg.com/564x/fa/6a/71/fa6a71d5028e16d308e2699e99ba76b9.jpg" id="image"> 
+           <h1> "Assymetrical Neck Crop Top" </h1> 
+           <h4> 115 Pesos</h4>
+           <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+           <h4> Colors: White, Brown, Pink, Blue </h4> 
+           <fieldset>
+           <a href="https://forms.gle/7Y8k6TaArrg6MxqS7"> BUY </a> 
+           </fieldset>
+           </center>
+           </div>
+
+       <div class="product">
+           <center>
+           <img src="https://i.pinimg.com/564x/9c/b3/32/9cb332722336da29d3f5c8e1fda3bb5b.jpg" id="image"> 
+           <h1> "Midriff Flossing Knitted Crop Top" </h1> 
+           <h4> 160 Pesos</h4>
+           <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+           <h4> Colors: White, Brown, Pink, Blue, Nude-Brown, Black </h4> 
+           <fieldset>
+           <a href="https://forms.gle/dKK6CMXHNfw5zvGC7"> BUY </a> 
+           </fieldset>
+           </center>
+           </div>
+
+       <div class="product">
+           <center>
+           <img src="https://i.pinimg.com/564x/d7/bc/b8/d7bcb8d17d07e6d4449ff0285058754e.jpg" id="image"> 
+           <h1> "Ruched Bust Ruffle Hem Cami Crop Top" </h1> 
+           <h4> 130 Pesos</h4>
+           <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+           <h4> Colors: White, Brown, Pink, Blue, Violet </h4> 
+           <fieldset>
+           <a href="https://forms.gle/c25fQvayZErn6EVK7"> BUY </a> 
+           </fieldset>
+           </center>
+           </div>
+
+       <div class="product">
+           <center>
+           <img src="https://i.pinimg.com/564x/41/a1/ab/41a1ab98a9f22ba3ecd053cefdf2ebe8.jpg" id="image"> 
+           <h1> "Twist Front Striped Tube Crop Top" </h1> 
+           <h4> 110 Pesos</h4>
+           <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+           <h4> Colors: White, Brown, Pink, Blue </h4> 
+           <fieldset>
+           <a href="https://forms.gle/YwRR4xSGPZcivvpcA"> BUY </a> 
+           </fieldset>
+           </center>
+           </div>
+       </div>
+<br>
+<br>
+                <hr>
+                <center><h1> <u><i> BEST SELLERS </i></u></h1></center>
+                <hr>
+            
+        <div class="product-container">
+
+            <div class="product">
+                <center>
+                <img src="https://i.pinimg.com/564x/bb/8a/40/bb8a409627a6bd625689a7ec12a8ac93.jpg" id="image"> 
+                <h1> "One Shoulder Ruched Crop Top" </h1> 
+                <h4> 200 Pesos</h4>
+                <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+                <h4> Colors: White, Brown, Pink, Blue </h4> 
+                <fieldset>
+                <a href="https://forms.gle/NN8s2JzGdLpBsEgY6"> BUY </a> 
+                </fieldset>
+                </center>
+                </div>
+
+            <div class="product">
+                <center>
+                <img src="https://i.pinimg.com/564x/4b/a4/ba/4ba4ba21183743785cf9e4fde203c936.jpg" id="image"> 
+                <h1> "Plus Dopamine Dressing Heart Crop Top" </h1> 
+                <h4> 185 Pesos</h4>
+                <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+                <h4> Colors: Green, Brown, Violet, Blue </h4> 
+                <fieldset>
+                <a href="https://forms.gle/Jp9ud5AbnrwocDaL7"> BUY </a> 
+                </fieldset>
+                </center>
+                </div>
+
+            <div class="product">
+                <center>
+                <img src="https://i.pinimg.com/564x/77/d8/80/77d8801729d97f783e3281fdc45a8ea4.jpg" id="image"> 
+                <h1> "Tie Back Off Shoulder Lettuce Trim Crop Top" </h1> 
+                <h4> 190 Pesos</h4>
+                <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+                <h4> Colors: White, Brown, Pink, Blue </h4> 
+                <fieldset>
+                <a href="https://forms.gle/z7DYZDTPfK67mdBz9"> BUY </a> 
+                </fieldset>
+                </center>
+                </div>
+            
+                <div class="product">
+                <center>
+                <img src="https://i.pinimg.com/564x/6f/f6/b5/6ff6b5cd0685d40f6c9ff03b29a2befb.jpg" id="image"> 
+                <h1> "Two Tone Buckle Front 2 in 1 Crop Top" </h1> 
+                <h4> 260 Pesos</h4>
+                <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+                <h4> Colors: White, Brown, Pink, Blue </h4> 
+                <fieldset>
+                <a href="https://forms.gle/9yfm1PadTtmTGenU7"> BUY </a> 
+                </fieldset>
+                </center>
+                </div>
+
+                <div class="product">
+                <center>
+                <img src="https://i.pinimg.com/564x/00/25/0d/00250d0d72398f8d0ae05929bbfe7ab9.jpg" id="image"> 
+                <h1> "Ruffle Ribbon Front Knot Crop Top" </h1> 
+                <h4> 160 Pesos</h4>
+                <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+                <h4> Colors: White, Brown, Pink, Blue </h4> 
+                <fieldset>
+                <a href="https://forms.gle/JKAAhnC4VDK8gmxK8"> BUY </a> 
+                </fieldset>
+                </center>
+                </div>
+
+                <div class="product">
+                <center>
+                <img src="https://i.pinimg.com/564x/d0/3a/2d/d03a2d3006c9e209456a7940ba6d85c8.jpg" id="image"> 
+                <h1> "Solid Drawstring Side Halter Crop Top" </h1> 
+                <h4> 185 Pesos</h4>
+                <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+                <h4> Colors: White, Brown, Pink, Blue </h4> 
+                <fieldset>
+                <a href="https://forms.gle/dtYAsMdnKNeGATFF6"> BUY </a> 
+                </fieldset>
+                </center>
+                </div>     
+
+                <div class="product">
+                <center>
+                <img src="https://i.pinimg.com/564x/03/ed/64/03ed6435b910eea0edeb0e1b202e2f30.jpg" id="image"> 
+                <h1> "Lace Up Front Halter Crop Top" </h1> 
+                <h4> 240 Pesos</h4>
+                <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+                <h4> Colors: White, Brown, Pink, Blue </h4> 
+                <fieldset>
+                <a href="https://forms.gle/D142HtxdxYvR5pdY9"> BUY </a> 
+                </fieldset>
+                </center>
+                </div>     
+
+                <div class="product">
+                <center>
+                <img src="https://i.pinimg.com/564x/8b/b6/f2/8bb6f2303fa4b9764a5de9e00e989d59.jpg" id="image"> 
+                <h1> "Ruffle Hem Crisscross Backless Cami Crop Top" </h1> 
+                <h4> 235 Pesos</h4>
+                <h4> Sizes: XS,S,M,L,XL,XXL </h4>                     
+                <h4> Colors: White, Brown, Pink, Blue </h4> 
+                <fieldset>
+                <a href="https://forms.gle/8thyeQLVAdGpTgA16"> BUY </a> 
+                </fieldset>
+                </center>
+                </div>     
+    
+            </div>
+    </section>
+    <br>
+    <br>
+    <br>
+
+    <section id="contact">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <center> 
+        <hr>
+        <div class="title"
+        <h2> Contact </h2>
+        <hr>
+        </div>
+        <br>
+        <p>
+        <p> Phone: +63 (995) 248-1352 </p>
+        <p> Facebook: BCD.filzilla </p>
+        <p> Email: bcdfilzilla@gmail.com </p>
+        </p> Address: Brgy. Alijis, Bacolod City | 6100, Negros Occidental, Philippines </p>
+        <a href="https://web.facebook.com/profile.php?id=61555348031559"> <img src="https://i.pinimg.com/564x/25/ea/59/25ea5941311b06c6cec08f99bf5d72a5.jpg" id="image2">  </a>
+        <a href="mailto:bcdfilzilla@gmail.com"> <img src="https://i.pinimg.com/564x/18/01/38/180138ec635cde4e830172ed2a2a3195.jpg" id="image2">  </a> 
+        <br>
+        <br>        
+        <p><u><i><b>We look forward to hearing from you!</b></i></u></p>           
+           </center>
+    </section>
+</hr>
+
+<section id="about">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <center> 
+        <hr>
+        <div class="title"
+        <h2> About Us </h2>
+        <hr>
+    </div>
+        <p>We are a dedicated team passionate about delivering exceptional products and services.</p>
+        <p>Our company was founded with a vision to innovate and create value for our customers.</p>
+        <br>
+    </center>
+        <br>
+        <br>
+<div>
+    <center>
+        <div class="picture">
+        <div class="picture">
+            <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t1.15752-9/373397806_1400042537520055_2439177853840489895_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeFff2BubUBLEcKHFVSe9Ydas6AgS7gs3cezoCBLuCzdx1gBJSMjHmZVlnvGkkde1rvL_IBH87LMvBmtWJwyJr74&_nc_ohc=vO4HBsaUCPIAX9HRf94&_nc_ht=scontent.fceb6-1.fna&oh=03_AdRBz9hk6zX1KCZy4GCZvDrpF-0XokLreVNAJVerKM9sNQ&oe=65CA37A1" id="image1">
+        </div>
+    <center>
+        <h1> <u> VILLALOBOS, JON NATHANIEL C. </u> </h1>
+        <br>
+        <p> A 1st year college student of Carlos Hilado Memorial State University. </p>
+        <p> Taking up the Bachelor of Science in Information Technology.</p>
+    </center>
+    <center>
+        <h1> <i> Contact him through; </i> </h1>
+        <br>
+        <li> <i> Facebook: Jon Nathaniel Villalobos </i> </li>
+        <li> <i> Instagram: @Nathan.yughl </i> </li>
+        <li> <i> Email: vjonnathaniel@gmail.com </i> </li>
+        <li> <i> Contact no.: +639952481352 </i> </li>
+        <div>
+        <a href="https://web.facebook.com/jonnathaniel.villalobos"> <img src="https://i.pinimg.com/564x/25/ea/59/25ea5941311b06c6cec08f99bf5d72a5.jpg" id="image2">  </a> 
+        <a href="https://www.instagram.com/nathan.yughl/"> <img src="https://i.pinimg.com/564x/7d/36/9f/7d369fb78ad668867000c0d987a1b70d.jpg" id="image2">  </a> 
+        <a href="mailto:vjonnathaniel@gmail.com"> <img src="https://i.pinimg.com/564x/18/01/38/180138ec635cde4e830172ed2a2a3195.jpg" id="image2">  </a> 
+        </div>
+        <p>
+    </center>
+    </center>
+    <center>
+        <h1> Educational Attainment</h1>
+        <br>
+        <li> College: Carlos Hilado Memorial State University</li>
+        <br>
+        <li> Senior High School: Bacolod City National High School - Senior High School</li>
+        <br>
+        <li> Junior High School: Bacolod City National High School </li>
+        <br>
+        <li> Elementary: C.V. Ramos Elementary School </li>
+        <br>
+    </center> 
+    </div>
+    <br>
+    <br>
+      <hr>
+<br>
+        <br>
+        <div>
+    <center>
+        <div class="portrait">
+        <div class="portrait">
+            <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t1.15752-9/418410900_1046538296779976_974262535264553102_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeHkmn7uSe2t1dtStLWEUZovW64aONnhoZhbrho42eGhmDDmZzlqAC05X6J78Aizc-mZAS4fdqFQB3OlfOCBc6eb&_nc_ohc=GMtfQlnehOMAX-riKiw&_nc_ht=scontent.fceb6-1.fna&oh=03_AdTGa2GNIujMrKk0Qa77QNLLCAJoh2PEDeKGOLXq0o6HOw&oe=65CA3175" id="image1">
+        </div>
+    <center>
+        <h1> <u> YANSON, REA NICOLE S. </u> </h1>
+        <br>
+        <p> A 1st year college student of Carlos Hilado Memorial State University. </p>
+        <p> Taking up the Bachelor of Science in Information Technology.</p>
+    </center>
+    <center>
+        <h1> Contact her through: </h1>
+        <br>
+        <!--<li> <a href="https://web.facebook.com/reanicole.yanson.54"> Facebook: Rea Nicole Yanson </a> </li>-->
+        <li> Facebook: Rea Nicole Yanson</li>
+        <li> Instagram: @rea_ns.y</li>
+        <li> Email: reanicoleyanson65@gmail.com </li>
+        <li> Contact no.: +6399510021471 </li>
+        <a href="https://web.facebook.com/reanicole.yanson.54"> <img src="https://i.pinimg.com/564x/25/ea/59/25ea5941311b06c6cec08f99bf5d72a5.jpg" id="image2">  </a> 
+        <a href="https://www.instagram.com/rea_ns.y/"> <img src="https://i.pinimg.com/564x/7d/36/9f/7d369fb78ad668867000c0d987a1b70d.jpg" id="image2">  </a> 
+        <a href="mailto:reanicoleyanson65@gmail.com"> <img src="https://i.pinimg.com/564x/18/01/38/180138ec635cde4e830172ed2a2a3195.jpg" id="image2">  </a> 
+        <p>
+    </center> 
+    </center>   
+    <center>
+        <h1> Educational Attainment</h1>
+        <br>
+        <li> College: Carlos Hilado Memorial State University</li>
+        <br>
+        <li> Senior High School: Enriqueta Montilla De Estebaban Memorial High School - Senior High School</li>
+        <br>
+        <li> Junior High School: Enriqueta Montilla De Esteban Memorial High School </li>
+        <br>
+        <li> Elementary: Pulupandan Elementary School </li>
+        <br>
+    </center>
+        </div>  
+        <hr>
+        <br>
+        <br>
+      
+    <div>
+    <center>
+        <div class="photograph">
+        <div class="photograph">
+            <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t1.15752-9/407132160_886407716463667_1034895127679707467_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeHp_mcsw_16APqVikFlIflTHw4tb20wYYofDi1vbTBhisHDbWQp2kmB0rBwZn6ozYq-f6V26_h5MjIGXvqdw_J9&_nc_ohc=Urc-4GglgL8AX-UBeZl&_nc_ht=scontent.fceb6-1.fna&oh=03_AdQhnNLwybXzbYzlgFq31mfQEncfGHeudoBuYil0lg6smQ&oe=65CA24FF" id="image1">
+    </div>
+    <center>
+        <h1> <u> ZAMBRA, MAIKA T. </u> </h1>
+        <br>
+        <p> A 1st year college student of Carlos Hilado Memorial State University. </p>
+        <p> Taking up the Bachelor of Science in Information Technology.</p>
+    </center>
+    <center>
+        <h1> Contact her through: </h1>
+        <li> Facebook: Maika Zambra </li>
+        <li> Instagram: @zambramaika</li>
+        <li> Email: maikazambra32@gmail.com </li>
+        <li> Contact no.: +639105129148 </li>  
+        <a href="https://web.facebook.com/maika.zambra.1"> <img src="https://i.pinimg.com/564x/25/ea/59/25ea5941311b06c6cec08f99bf5d72a5.jpg" id="image2">  </a> 
+        <a href="https://www.instagram.com/zambramaika/"> <img src="https://i.pinimg.com/564x/7d/36/9f/7d369fb78ad668867000c0d987a1b70d.jpg" id="image2">  </a> 
+        <a href="mailto:maikazambra32@gmail.com"> <img src="https://i.pinimg.com/564x/18/01/38/180138ec635cde4e830172ed2a2a3195.jpg" id="image2">  </a> 
+        <p>
+    </center>
+    </center>
+    <center>
+        <h1> Educational Attainment</h1>
+        <br>
+        <li> College: Carlos Hilado Memorial State University</li>
+        <br>
+        <li> Senior High School: Cabacungan Senior High School- Senior High School</li>
+        <br>
+        <li> Junior High School:Manghanoy National High School </li>
+        <br>
+        <li> Elementary: Manghanoy Elementary School</li>
+        <br>
+    </center>
+        <hr>
+    </div>
+        <br>
+        <br>
+        <br>
+        <hr>
+</center>
+</section>
+
+<section id="history1">
+<div id="wrapper" font-family: times new roman, times new roman;  color: black;">
+   <br>
+   <br>
+  <br>
+  <br>
+   <br>
+<center>
+    <hr>
+    <div class="title"
+    <h2> The History of Fillzila Shop </h2>
+    </div>
+    <hr>
+  <br>
+  <br> 
+<pre>
+In a lively city, Nathaniel, Rea, and Maika shared a deep love for fashion. They'd spend weekends exploring thrift stores,sketching outfit ideas, and
+dreaming of creating their own clothing brand. 
+
+One sunny day, while chilling in Nathaniel's backyard, they noticed something interesting - crop tops were becoming really popular again. Inspired by this, they saw 
+an opportunity to start their own business centered around these trendy tops. Excited and determined, the three friends jumped into the world of fashion. With 
+sketchbooks and a sewing machine, they turned Rea's garage into a kind of makeshift design workshop. Late nights were spent cutting fabrics, sewing prototypes,
+and making each crop top special. Their first collection, a small bunch of  one-of-a-kind crop tops, was ready to show the world. They set up a stall at 
+a local market, showing off what they'd made. People loved the unique style and the effort the friends put into making each top by hand. Feeling encouraged, Nathaniel, 
+Rea, and Maika created an online shop called "Filzilla." They put their hearts into every part of it - designing the website and personally  packing every order. 
+They also shared their journey on social media, telling the story of Filzilla and how they made their crop top business happen. Even though they faced challenges 
+in finding eco-friendly materials and managing the production process, they stuck together and expanded their team. They worked with local artists and social media 
+influencers to make their crop tops stand out. Their commitment to being eco-friendly and supporting good causes became a big part of Filzilla. They recycled, 
+used eco-friendly packaging, and helped out with social issues they cared about. As time passed, Filzilla grew from a small idea in Nathaniel's backyard into
+a successful crop top business. Their designs got famous, they opened stores in big fashion cities, but no matter how big they got, they stayed true to their
+friendship and the humble beginnings of Filzilla. Looking back, they realized that their friendship, creativity, and never-give-up attitude turned their dream of 
+Filzilla into a reality that made people feel good about themselves through fashion. And so, the story of Filzilla wasn't just about clothes; it was a tale of 
+friendship, hard work, and the amazing journey from an idea to a successful business.
+</pre>
+<br>
+<br>
+<br>
+<hr>
+</center>
+
+<footer id="footer">
+  <p>&copy; 2024 BCD-Filzilla. All rights reserved.</p>
+</footer>
+</body>
+</html>
